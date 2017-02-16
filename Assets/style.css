@@ -1,0 +1,37 @@
+body {
+	background-image: url("../Images/symphony.png");
+}
+.wht-bac {
+	background: #fff;
+	border: 1px solid #e5e0e0;
+	padding-bottom: 10px;
+}
+#me-text p {
+	margin-top: 20px;
+	font-size: 18px;
+}
+h1, h2, h3 {
+	color: #4aaaa5;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #e5e0e0;
+}
+#connect img {
+	margin-right: 10px;
+}
+address {
+	margin-top: 10px;
+}
+/*----------------------------------  CONTACT PAGE STYLES ----------------*/
+form {
+	padding-bottom: 10px;
+	border-bottom: 1px solid #e5e0e0;
+}
+/*----------------------------------  PORTFOLIO PAGE STYLES  ------------*/
+.img-placeholder {
+	/*float: left;
+	width: 270px;
+	height: 250px;*/
+	margin-top: 15px;
+	/*margin-right: 15px;
+	background-color: #4aaaa5;*/
+}
